@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+wallet_data/
+*.key
+.vscode/
